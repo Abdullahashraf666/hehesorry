@@ -1,0 +1,59 @@
+.neon {
+	color: #EE82EE;
+	text-shadow:
+	  0 0 5px #8B008B,
+	  0 0 10px #8B008B,
+	  0 0 20px #8B008B,
+	  0 0 40px #DDA0DD,
+	  0 0 80px #DDA0DD,
+	  0 0 90px #DDA0DD,
+	  0 0 100px #DDA0DD,
+	  0 0 150px #DDA0DD;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /* general styling */
+  :root {
+	font-size: calc(1vw + 1vh + 1.5vmin);
+  }
+  
+  html, body {
+	height: 100%;
+	margin: 0;
+  }
+  
+  .container {
+	margin: 0 auto;
+  }
+  
+  body {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	background-color: #010a00;
+	background-image: url("1\ \(2\).jpg");
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	font-family: 'Cormorant Upright' ;
+	  
+	font-size: 1rem;
+  }
+  
+  h2 {
+	font-weight: 400;
+	text-align: center;
+	text-transform: uppercase;
+  }
